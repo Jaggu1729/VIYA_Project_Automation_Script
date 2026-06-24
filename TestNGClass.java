@@ -6,5 +6,12 @@ public class TestNGClass {
 	  System.out.println("Jaggu Seanior QA Automation Engineer");
 	  
 	  Webdriver driver = new Chrome driver;
+
+	  	  Webdriver driver = new Chrome driver;
+
+
+	  Test;
+
+	  
   }
 }
